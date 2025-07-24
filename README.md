@@ -1,19 +1,37 @@
-# flutterproject
+# Simple App - Flutter
 
-A new Flutter project.
+This is a beginner-friendly Flutter app that simulates a pizza ordering experience with clean navigation and basic UI components.
 
-## Getting Started
+## 📱 Screens Included
 
-This project is a starting point for a Flutter application.
+1. **Welcome Screen**  
+   - A simple welcome message with a call-to-action "Order Now" button.
 
-A few resources to get you started if this is your first Flutter project:
+2. **Login Screen**  
+   - Takes a phone number and password.
+   - Simulates login and proceeds to OTP screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. **OTP Screen**  
+   - User enters a 6-digit OTP.
+   - Once validated, user is taken to product list.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. **Product List Screen**  
+   - Shows a list of 3 pizza products.
+   - Each item has a name, price, and description.
+
+---
+
+## 🔧 How to Run
+
+1. Make sure you have Flutter installed.  
+   [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
+
+2. Clone the repo:
+
+   ```bash
+   git clone https://github.com/your-username/pizza-app.git
+   cd pizza-app
+
 ## 📸 Screenshots
 
 <p align="center">

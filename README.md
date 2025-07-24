@@ -17,6 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/login.PNG" width="45%" />
-  <img src="assets/Check.PNG" width="45%" />
+  <img src="assets/1.PNG" width="45%" />
+  <img src="assets/2png" width="45%" />
+</p>
+<p align="center">
+  <img src="assets/3.PNG" width="45%" />
+  <img src="assets/4png" width="45%" />
 </p>
